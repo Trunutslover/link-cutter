@@ -1,0 +1,6 @@
+{
+  "baseUrl": "http://localhost:5000",
+  "port": 5000,
+  "jwtSecret": "secret for jwt",
+  "mongoUri": "mongodb+srv://trunutslover:032602@cluster0-hlci0.mongodb.net/link-cutter?retryWrites=true&w=majority"
+}
